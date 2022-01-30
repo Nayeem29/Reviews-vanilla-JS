@@ -42,6 +42,8 @@ main {
     text-align: center;
     position: relative;
     left: 35%;
+    border: none;
+    border-radius: 50%;
 }
 
 #person {
